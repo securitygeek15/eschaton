@@ -39,5 +39,5 @@ The gateway awaits at `http://localhost:5173`.
 
 <p align="center">
   <sub>Good luck.</sub><br />
-  <sub>921</sub>
+  <sub>921 // MIT License</sub>
 </p>
