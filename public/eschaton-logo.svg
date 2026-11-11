@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Minimalist Geometric Seal: Concentric Ring + Nested Astrolabe Diamond + Cicada Prime Glyph -->
+  <circle cx="50" cy="50" r="44" stroke="#111111" stroke-width="2.5" />
+  <circle cx="50" cy="50" r="38" stroke="#E5E5E5" stroke-width="1.2" stroke-dasharray="3 3" />
+  <polygon points="50,14 86,50 50,86 14,50" stroke="#111111" stroke-width="2" />
+  <circle cx="50" cy="50" r="16" stroke="#111111" stroke-width="1.5" />
+  <!-- Center Cicada / Psi Prime Singularity -->
+  <path d="M50 38 L50 62 M41 46 C41 55, 59 55, 59 46" stroke="#111111" stroke-width="2.5" stroke-linecap="round" />
+  <circle cx="50" cy="50" r="2.5" fill="#111111" />
+  <circle cx="50" cy="20" r="2" fill="#111111" />
+  <circle cx="80" cy="50" r="2" fill="#111111" />
+  <circle cx="50" cy="80" r="2" fill="#111111" />
+  <circle cx="20" cy="50" r="2" fill="#111111" />
+</svg>
+
