@@ -136,7 +136,7 @@ export function Certificate({ solvedTimestamp, tokenChain, onReset }) {
           </div>
           <span className="cert-kicker">CERTIFICATE OF DEMONSTRATED PROFICIENCY</span>
           <h1 className="cert-title">ESCHATON</h1>
-          <span className="cert-subtitle">DISTRIBUTED SYSTEMS, CYBERSECURITY & ARTIFICIAL INTELLIGENCE REGISTER</span>
+          <span className="cert-subtitle">DEEP INVESTIGATIVE RESEARCH & FORENSICS REGISTER</span>
         </div>
 
         <div className="cert-body">
@@ -196,7 +196,7 @@ export function Certificate({ solvedTimestamp, tokenChain, onReset }) {
             </div>
             <div className="cert-spec-item">
               <span className="spec-label">CURRICULUM RESOLVED</span>
-              <span className="spec-value">12 / 12 PHASES (6 SYSTEMS + 6 CYBER/AI)</span>
+              <span className="spec-value">12 / 12 PHASES (HISTORICAL & FORENSIC INQUIRIES)</span>
             </div>
             <div className="cert-spec-item">
               <span className="spec-label">ISSUANCE DATE</span>

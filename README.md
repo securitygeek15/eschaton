@@ -20,7 +20,7 @@ Twelve chambers have been constructed.
 
 There are no hints. No multiple choice options. No answers hidden in the source.
 
-Those who rely on search engines will not pass. Those who can compute, deduce, and reverse-engineer will reach the final horizon.
+Those who rely on superficial search queries or language models will not pass. Those who can trace primary sources, cross-reference declassified archives, and deduce the unstated will reach the final horizon.
 
 ---
 
